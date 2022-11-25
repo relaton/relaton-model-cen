@@ -2,8 +2,3 @@ include "biblio-standoc.rnc" {
 
 }
 
-BibDataExtensionType =
-  attribute schema-version { text }?,
-    editorialgroup, ics*
-
-
